@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - DoorL
+  - DoorR
+  - Crate_Floppy
+  - Minigame3
+  - Minigame1
+  - AlarmLight
+  - Forklift_Key
+  - DestPoint
+  - chihuahua
+  - pug
+  - cur
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Mask
+  - Water
+  - UI
+  - Door
+  - Player
+  - Grid
+  - Floor
+  - Non-Walkable
+  - Forcefield
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ignore
+    uniqueID: 3908401001
+    locked: 0
+  m_RenderingLayers:
+  - Default
