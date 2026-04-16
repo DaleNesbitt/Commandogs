@@ -214,4 +214,4 @@ The project is currently in active development. Core systems under construction 
 
 ## License
 
-This project is intended for educational use. All rights reserved unless otherwise specified.
+This project is intended for educational use. All rights reserved unless otherwise specified
